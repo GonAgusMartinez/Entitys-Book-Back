@@ -1,0 +1,122 @@
+[
+    {
+        "name": "El trampero",
+        "id": "1",
+        "usagerate": "2.4%",
+        "description": "Hay un gran monstruo de hombre, con una horrible sonrisa desgarrada en la máscara que acecha cada uno de mis movimientos. Al igual que un cazador, él nos rastrea, preparando trampas devastadoras entre la vegetación. La vigilancia extrema y un paso ligero es esencial para evitar el apretujamiento sangriento de una trampa para osos o las garras de lo que he llamado El Asesino Sonriente Miserable. Muchas veces ha logrado atraparme en una de estas trampas. No tengo más que miedo por la sensación de las puntas de la trampa contundentes rechinando contra mis huesos o por los pasos pesados y deliberados que siempre inevitablemente revelan una sonrisa sádica enyesada. Con las trampas y el Trampero, hasta ahora ha sido una batalla constante entre mirar hacia arriba y mirar hacia abajo.",
+        "perks": [
+            "Agitacion",
+            "Fuerza bruta",
+            "Presencia abrumadora"
+        ],
+        "killrate": {
+            "onekill": 30,
+            "twokills": 20,
+            "threekills": 20,
+            "fourkills": 30
+        },
+        "imagenUrl": "https://res.cloudinary.com/dcyphejtl/image/upload/v1726024720/Imagenes%20DBD/ufcobpyqo8hyx16aksqh.webp",
+        "power": "Trampas para osos",
+        "powerdescription": "Las Trampas para osos es el arma secundaria del Trampero: las trampas para osos se encuentran alrededor del mapa.\nSe pueden recoger y colocar en su mayoría en cualquier lugar.\nLas trampas no se armarán hasta que las recogan y las coloquen.\nEl Trampero comienza el juego con una sola trampa en sus manos, y solo puede cargar una a la vez a menos que use los accesorios de Bolsa de trampero o Bolsa con retazos.\n\nDespués de presionar M2, el Trampero se inclina y establece la trampa, mirando directamente hacia abajo, permitiendo que los supervivientes cercanos corran a su alrededor sin ser vistos.\nSin embargo, si un superviviente camina sobre una trampa armada, la trampa se levantará y atrapará una de sus piernas, donde quedarán atrapados en su lugar hasta que logren liberarse o un compañero superviviente venga a liberarlos, o el Trampero regrese a llevarlo a un gancho.\nUn superviviente atrapado hará mucho ruido, alertará y será visible para el Trampero a través de las paredes.\n\nLas trampas también poseen un aura que puede ser vista por el cazador en todo momento y desde todos los rangos.\nEsto es útil para identificar qué trampas aún no se han establecido, así como las trampas que se han desarmado.\nSi el Trampero camina dentro de la caja de golpe de una de sus trampas, se inclinará para liberarse, pero la trampa permanecerá en la posición establecida y no se le dará ningún efecto al Asesino.\n\nEs muy común que los Tramperos experimentados pongan trampas para osos en lugares difíciles de identificar, como hierba alta, a la vuelta de una esquina o en un lado de una ventana para que los sobrevivientes los activen sin ser alertados previamente de su posición.",
+        "speedmove": "4.6 m/s ",
+        "high": "Alta",
+        "terrorradio": "32 metros",
+        "dlc": "Ninguno, fue parte del elenco inicial"
+    },
+    {
+        "name": "El espectro",
+        "id": "2",
+        "usagerate": "3.1%",
+        "description": "Hay otra aparición, más aterradora que cualquier cosa que he visto, cazando entre las sombras aquí. Se mueve como una silueta, apareciendo y desapareciendo al sonido de una temida campana. Es imposible seguirlo. Varias veces me ha atrapado sin que yo ni siquiera lo vea acercarse. A menudo convencido de que tengo la espalda cubierta, se ha materializado inmediatamente detrás de mí para atacar de cerca. Quédate quieto y mira la niebla. No te muevas, no parpadees y por el amor de Dios no respires. Si puedes controlar tu miedo lo suficiente y puedes demostrar autocontrol, a veces es posible ver su reflejo mientras se desliza hacia adelante si es atrapado justo en la luz correcta. Ruego por tu seguridad.",
+        "perks": [
+            "Depredacion",
+            "Sabueso de sangre",
+            "Hijo de la sombra"
+        ],
+        "killrate": {
+            "onekill": 40,
+            "twokills": 25,
+            "threekills": 15,
+            "fourkills": 20
+        },
+        "imagenUrl": "https://res.cloudinary.com/dcyphejtl/image/upload/v1726024711/Imagenes%20DBD/vxkuf6clwvczlwxuom5d.webp",
+        "power": "Campana gimiente",
+        "powerdescription": "Una pesada campana de hierro fundido imbuida de poderes ancestrales. Permite al usuario entrar y andar por el mundo espiritual cuando se usa.\n\nToca la campana durante 1,5 segundos para que se camufle y quede casi completamente invisible.",
+        "speedmove": "4.6 m/s (en estado visible) 5.1 (en estado invisible)",
+        "high": "Alta",
+        "terrorradio": "32 metros",
+        "dlc": "Ninguno, fue parte del elenco inicial"
+    },
+    {
+        "name": "El pueblerino",
+        "id": "3",
+        "usagerate": "4%",
+        "description": "Un hombre terrible que contemplar. Su cuerpo está retorcido y desfigurado por un horrible accidente. Lleva una motosierra mortal y cruel que empuña con violencia devastadora, aparentemente imbuyéndole de una velocidad sobrehumana durante un tiempo. Su ventaja también es una debilidad ya que el ruido puede revelar su posición. Así que he intentado aumentar mi sentido del sonido. Aprovechando cualquier sonido que no provenga de la naturaleza.",
+        "perks": [
+            "Resistente",
+            "Hijo de la luz",
+            "Manitas"
+        ],
+        "killrate": {
+            "onekill": 10,
+            "twokills": 30,
+            "threekills": 40,
+            "fourkills": 20
+        },
+        "imagenUrl": "https://res.cloudinary.com/dcyphejtl/image/upload/v1726024717/Imagenes%20DBD/gzlthxopgslffedvyipu.webp",
+        "power": "Motosierra",
+        "powerdescription": "La motosierra es el arma secundaria de El Pueblerino.\nUna descomunal y mortal motosierra de una fuerza aterradora.\nTritura carne, huesos y almas.\nUna vez que es acelerada, lleva al usuario a un violento frenesí.\n\nCuando se activa, inicia una carrera frenética.\nCuando corre, su capacidad de cambiar de dirección es limitada, si no tiene ningún accesorio.\nProvoca automáticamente el estado agonizante si el ataque resulta exitoso.\nSi El Pueblerino golpea las paredes o los objetos con su motosierra, quedará aturdido.\nEl Pueblerino hace añicos los palés rápidamente con su motosierra.\nSi la carrera empieza y está debajo de un palé, El Pueblerino quedará aturdido y parará al otro lado del palé si es que este se tira.",
+        "speedmove": "4.6 m/s (sin motosierra) 9.2 m/s (con motosierra)",
+        "high": "Alta",
+        "terrorradio": "32 metros",
+        "dlc": "Ninguno, fue parte del elenco inicial"
+    },
+    {
+        "name": "La enfermera",
+        "id": "4",
+        "usagerate": "3.7%",
+        "description": "Una nueva alimaña ha ingresado a la arena. La vi cuando ella, de alguna manera, se movió a través de una pared. Vestidos con vendajes que cuentan una historia nunca contada de algo horrible. Esta ... enfermera, como parece, me trae una nueva angustia durante mis solitarias noches, mientras mi mente se vuelve loca.",
+        "perks": [
+            "Estridor",
+            "Tanatofobia",
+            "Vocacion de enfermera"
+        ],
+        "killrate": {
+            "onekill": 40,
+            "twokills": 30,
+            "threekills": 20,
+            "fourkills": 10
+        },
+        "imagenUrl": "https://res.cloudinary.com/dcyphejtl/image/upload/v1726024711/Imagenes%20DBD/ewbpqxtfj0bkoybhfail.webp",
+        "power": "Ultimo aliento de spencer",
+        "powerdescription": "El último aliento tomado del guardián del asilo de Crotus Prenn, Patrick Spencer.\nSi mantienes M2 cargas un teletransporte, el alcance dependerá de cuánto tiempo cargues el Aliento.\nDespués de teletransportarse, hay un corto período de poco más de un segundo en el cual la enfermera puede atacar, o saltar nuevamente.\nPor defecto, la enfermera puede saltar 1 vez más (2 veces en total).\nDespués de al menos 1 salto, la enfermera quedará aturdida después de un corto período de tiempo sin teletransportarse ni seguir un ataque.\nLa duración del aturdimiento se incrementa con el número de saltos utilizados.\n\nLa enfermera puede encadenar múltiples saltos juntos antes de atacar.\nPara evitar quedarse aturdida por más tiempo, la Enfermera puede optar por no usar sus saltos adicionales.\nTambién puede optar por no atacar, ya que atacar retrasará la aparición del aturdimiento en aproximadamente 1.5-2 segundos.\nLos puntos flotantes en la palma de la enfermera indican cuántos saltos le quedan.",
+        "speedmove": "3.9 m/s",
+        "high": "Media",
+        "terrorradio": "32 metros",
+        "dlc": "The last breath chapter"
+    },
+    {
+        "name": "La cazadora",
+        "id": "5",
+        "usagerate": "7.2%",
+        "description": "Una figura vestida con la cabeza de una liebre. Una vista muy inquietante. Este nuevo enemigo tiene algo humano dentro de ella. Algunos fragmentos de la vida ordinaria. Ella parece ser una cazadora. Conocí a muchos seres diferentes en este lugar, pero este es el primero con una habilidad natural para cazar. En cualquier otro lugar, uno podría considerarlo un talento. Pero su habilidad para rastrear, capturar y matar es algo más aquí. También hay algo más en ella, parece buscar algo.",
+        "perks": [
+            "Bestia de preza",
+            "Instinto territorial",
+            "Maleficio: nana de la cazadora"
+        ],
+        "killrate": {
+            "onekill": 30,
+            "twokills": 10,
+            "threekills": 20,
+            "fourkills": 40
+        },
+        "imagenUrl": "https://res.cloudinary.com/dcyphejtl/image/upload/v1726024709/Imagenes%20DBD/nwazkfrymuqbrtxwf8lc.webp",
+        "power": "Destrales de caza",
+        "powerdescription": "Una habilidad enseñada por su madre y dominada en la naturaleza.\nLa Cazadora puede arrojar destrales con una precisión letal.\n\nEmpieza la partida con 5 destrales.\nCarga el disparo para lanzarlos con la máxima velocidad.\nConsigue destrales en las Taquillas IconHelp lockers.\nPuedes cancelar el lanzamiento.\nLas Hachas se consumen con el uso.\nCuando cargas el disparo la velocidad de movimiento se ve ligeramente disminuida.",
+        "speedmove": "4.4 m/s",
+        "high": "Alta",
+        "terrorradio": "20 metros",
+        "dlc": "A lullaby for the dark"
+    }
+]

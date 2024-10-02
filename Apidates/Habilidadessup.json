@@ -1,0 +1,226 @@
+[
+    {
+        "name": "Carne resbalosa",
+        "id": "1",
+        "description": "Otorga hasta 3 intentos más para liberarte de ganchos.\nLa probabilidad de libertarte de las trampas para osos aumenta en un 6%.",
+        "usagerate": "0.4%",
+        "imageUrl": "https://res.cloudinary.com/dcyphejtl/image/upload/v1726024683/Perks%20A/l1antch0jnpiovj7cqkt.webp"
+    },
+    {
+        "name": "Caza menor",
+        "id": "2",
+        "description": "Obtén una advertencia sonora cuando mires en la dirección de los tótems dentro de un radio de 12 metros.\nCaza menor tiene un tiempo de recuperación de 10 segundos cada vez que se activa.",
+        "usagerate": "3.6%",
+        "imageUrl": "https://res.cloudinary.com/dcyphejtl/image/upload/v1726024684/Perks%20A/xlmhk0f1jzkwhhsmdqv5.webp"
+    },
+    {
+        "name": "Deja vu",
+        "id": "3",
+        "description": "Al principio de cada partida y cada vez que se complete un generador, se revelaran las Auras de los 3 Generadores próximos entre sí.",
+        "usageRate": "3%",
+        "imageUrl": "https://res.cloudinary.com/dcyphejtl/image/upload/v1726024687/Perks%20A/umsodqmulfhghbetgl3r.webp"
+    },
+    {
+        "name": "Pies ligeros",
+        "id": "4",
+        "description": "Las huellas de pisada permanecen 3 segundos menos de lo normal.",
+        "usagerate": "1.4%",
+        "imageUrl": "https://res.cloudinary.com/dcyphejtl/image/upload/v1726024698/Perks%20A/h1elcdo8fs1vczrevdcl.webp"
+    },
+    {
+        "name": "Escalofrios",
+        "id": "5",
+        "description": "Recibes un aviso cuando el asesino te vea directamente dentro de un radio de 36 metros.\nMientras Escalofríos está activa, la probabilidad de que surjan Pruebas de Habilidad aumenta en un 10 %, y el tamaño de sus áreas de éxito se reduce en un 10 %.\nMientras Escalofríos está activa, las velocidades de Reparación, Curación, Sabotaje, Desenganche, Salto, Purificación, Búsqueda y apertura de Puertas de Salida aumentan un 6%.",
+        "usagerate": "1.9%",
+        "imageUrl": "https://res.cloudinary.com/dcyphejtl/image/upload/v1726024689/Perks%20A/ttdbtyyebaweutayoesj.webp"
+    },
+    {
+        "name": "Esperanza",
+        "id": "6",
+        "description": "Obtienes un 7% del efecto de estado Celeridad en cuanto las Puertas de Salida se activan.",
+        "usagerate": "3.2%",
+        "imageUrl": "https://res.cloudinary.com/dcyphejtl/image/upload/v1726024689/Perks%20A/lq6o9dtd1byfs8z8nw5y.webp"
+    },
+    {
+        "name": "Esto no puede estar pasando",
+        "id": "7",
+        "description": "El tamaño de las áreas de éxito para superar las pruebas de habilidad excelentes de reparación, curación y sabotaje aumenta un 30% si estás herido.",
+        "usagerate": "0.1%",
+        "imageUrl": "https://res.cloudinary.com/dcyphejtl/image/upload/v1726024690/Perks%20A/hepdfmd4rufczodakvav.webp"
+    },
+    {
+        "name": "Familia",
+        "id": "8",
+        "description": "Mientras estés en el gancho, el aura de 16 metros los supervivientes se revela al resto de supervivientes.",
+        "usagerate": "4.1%",
+        "imageUrl": "https://res.cloudinary.com/dcyphejtl/image/upload/v1726024691/Perks%20A/uhgpoa2wqbt2gpkhnw8u.webp"
+    },
+    {
+        "name": "Instinto Saqueador",
+        "id": "9",
+        "description": "Las auras de los cofres se te revelan cuando te encuentras en un radio de 32 metros. Otorga una posibilidad 6% superior de encontrar un objeto de mayor rareza en los cofres.",
+        "usagerate": "1%",
+        "imageUrl": "https://res.cloudinary.com/dcyphejtl/image/upload/v1726024693/Perks%20A/buiz4duvufiv9hwc3lh0.webp"
+    },
+    {
+        "name": "Lo conseguiremos",
+        "id": "10",
+        "description": "Obtienes un 7% del efecto de estado Celeridad en cuanto las Puertas de Salida se activan.",
+        "usagerate": "4.5%",
+        "imageUrl": "https://res.cloudinary.com/dcyphejtl/image/upload/v1726024687/Perks%20A/hsoztbtjmyzavate4kha.webp"
+    },
+    {
+        "name": "Nadie se queda atras",
+        "id": "11",
+        "description": "Una vez que la puerta de salida se abra, gana un 100 % de puntos de sangre adicionales en la categoría de altruismo y obtiene 12% de velocidad en acciones de dicha categoria.",
+        "usagerate": "1.9%",
+        "imageUrl": "https://res.cloudinary.com/dcyphejtl/image/upload/v1726024696/Perks%20A/lszzy61d3iawxkjnmcoy.webp"
+    },
+    {
+        "name": "Premonicion",
+        "id": "12",
+        "description": "Obtén una advertencia sonora cuando mires en dirección del asesino en un área cónica de 45 grados dentro de un radio de 30 metros. La habilidad de Premonición tiene un tiempo de recuperación de 6 segundos cada vez que se activa.",
+        "usagerate": "0.6%",
+        "imageUrl": "https://res.cloudinary.com/dcyphejtl/image/upload/v1726024699/Perks%20A/ceco7qqvanwzr8ryw5c6.webp"
+    },
+    {
+        "name": "Resiliencia",
+        "id": "13",
+        "description": "Otorga un 9 % de velocidad adicional de reparación, curación, sabotaje, rescate, salto, purificación, apertura de puertas de salida y búsqueda cuando estás herido.",
+        "usagerate": "1.2%",
+        "imageUrl": "https://res.cloudinary.com/dcyphejtl/image/upload/v1726024699/Perks%20A/qpmukp2phwsawfloaudj.webp"
+    },
+    {
+        "name": "Sentido oscuro",
+        "id": "14",
+        "description": "Cada vez que se repare un generador o cuando se abran las puertas de salida se te revela el aura del asesino durante 5 segundos cuando estes a 24 metros de el.",
+        "usagerate": "1.6%",
+        "imageUrl": "https://res.cloudinary.com/dcyphejtl/image/upload/v1726024699/Perks%20A/qpmukp2phwsawfloaudj.webp"
+    },
+    {
+        "name": "Vinculo",
+        "id": "15",
+        "description": "Se te revelan las Auras de los aliados en un radio de 36 metros.",
+        "usagerate": "5%",
+        "imageUrl": "https://res.cloudinary.com/dcyphejtl/image/upload/v1726024679/Perks%20A/vemag5zd4ud4hs8jrad9.webp"
+    },
+    {
+        "name": "Ponte a prueba",
+        "id": "16",
+        "description": "Por cada otro Superviviente trabajando en un Generador dentro de un rango de 4 metros, recibes una bonificación del 15 % de la velocidad de Reparación.\nLa misma bonificación también se aplica al resto de Supervivientes dentro de ese rango.\nConsigues un 100 % más de Puntos de Sangre por acciones cooperativas.\nLos Supervivientes solo pueden recibir un efecto Ponte a prueba a la vez.",
+        "usagerate": "4.7%",
+        "imageUrl": "https://res.cloudinary.com/dcyphejtl/image/upload/v1726024699/Perks%20A/qpmukp2phwsawfloaudj.webp"
+    },
+    {
+        "name": "Lider",
+        "id": "17",
+        "description": "Aumenta un 25 % las velocidades de curación, sabotaje, rescate de ganchos, purificación, apertura de puertas de salida y búsqueda en cofres de los demás Supervivientes cuando se encuentran a menos de 8 metros de ti.\nLos Supervivientes no pueden recibir el efecto de más de un Líder.\nEl efecto sigue activo durante 15 segundos una vez fuera del alcance de Líder.",
+        "usagerate": "3.9%",
+        "imageUrl": "https://res.cloudinary.com/dcyphejtl/image/upload/v1726024699/Perks%20A/qpmukp2phwsawfloaudj.webp"
+    },
+    {
+        "name": "Autocuracion",
+        "id": "18",
+        "description": "Permite curarte sin objetos en un 35% de la velocidad normal",
+        "usagerate": "2%",
+        "imageUrl": "https://res.cloudinary.com/dcyphejtl/image/upload/v1726024681/Perks%20A/kpuos1sj1z7qaqyss9gp.webp"
+    },
+    {
+        "name": "Conocimiento de botanica",
+        "id": "19",
+        "description": "La velocidad de curación aumenta un 50% y la eficiencia de los Objetos curativos se reduce un 33%.",
+        "usagerate": "2.2%",
+        "imageUrl": "https://res.cloudinary.com/dcyphejtl/image/upload/v1726024686/Perks%20A/whlsvjy5iym7hqked2bc.webp"
+    },
+    {
+        "name": "Empatia",
+        "id": "20",
+        "description": "Las auras de aliados agonizantes o heridos se te revelan en un radio 128 metros.",
+        "usagerate": "1.8%",
+        "imageUrl": "https://res.cloudinary.com/dcyphejtl/image/upload/v1726024688/Perks%20A/dub0ojiazkdmq7m4r5xh.webp"
+    },
+    {
+        "name": "Andrenalina",
+        "id": "21",
+        "description": "Te curas instantáneamente un estado de salud y corres a un 150 % de tu velocidad normal de carrera durante 5 segundos en cuanto las puertas de salida se activan.\nAdrenalina permite ignorar el efecto de estado Agotamiento.\ncausa el efecto de estado Agotamiento durante 40 segundos.",
+        "usagerate": "4.7%",
+        "imageUrl": "https://res.cloudinary.com/dcyphejtl/image/upload/v1726024680/Perks%20A/hpapbrqfpttjluv1kkop.webp"
+    },
+    {
+        "name": "Esprint",
+        "id": "22",
+        "description": "Cuando te pones a correr, aceleras a un 150% de tu velocidad normal de carrera durante un máximo de 3 segundos.\nCausa el efecto de estado agotamiento durante 40 segundos.",
+        "usagerate": "3.9%",
+        "imageUrl": "https://res.cloudinary.com/dcyphejtl/image/upload/v1726024689/Perks%20A/rie223sbmrzkoqcamyya.webp"
+    },
+    {
+        "name": "Velocidad silenciosa",
+        "id": "23",
+        "description": "El alcance de sonido y la detección del ruido para las acciones de salto y escondite se reducen en un 100%.\nEste efecto solo se puede activar una vez cada 20 segundos.",
+        "usagerate": "3%",
+        "imageUrl": "https://res.cloudinary.com/dcyphejtl/image/upload/v1726024678/Perks%20A/lrmbadvtevrq660zeyab.webp"
+    },
+    {
+        "name": "Espiritu calmo",
+        "id": "24",
+        "description": "Reduce un 100% la probabilidad de alertar a criaturas del bosque.Espíritu Calmado te permite controlar el impulso de gritar.",
+        "usagerate": "1.1%",
+        "imageUrl": "https://res.cloudinary.com/dcyphejtl/image/upload/v1726024689/Perks%20A/tnxuva7mzyasredyywzc.webp"
+    },
+    {
+        "name": "Sabotaje",
+        "id": "25",
+        "description": "Puedes ver las auras de los Ganchos en un radio de 56 metros desde el punto de recogida si el Asesino carga con un Superviviente.\nPermite sabotear Ganchos sin necesidad de tener una Caja de Herramientas.\nSabotear un Gancho sin Caja de Herramientas lleva 2.5 segundos.\nSabotaje tiene un tiempo de recarga de 60 segundos.",
+        "usagerate": "0.9%",
+        "imageUrl": "https://res.cloudinary.com/dcyphejtl/image/upload/v1726024699/Perks%20A/czhyxgloxgcfcia25yl8.webp"
+    },
+    {
+        "name": "Voluntad de hierro",
+        "id": "26",
+        "description": "Los gruñidos provocados por heridas se reducen un  100% no funciona con Agotamiento, no provoca Agotamiento.",
+        "usagerate": "4.4%",
+        "imageUrl": "https://res.cloudinary.com/dcyphejtl/image/upload/v1726024679/Perks%20A/kli24tyceu32uum2t0fk.webp"
+    },
+    {
+        "name": "Caida equilibrada",
+        "id": "27",
+        "description": "Tras caer desde cierta altura, tus reflejos felinos reducen el tiempo que tardas en recuperarte un 75 % y el volumen de los gruñidos al aterrizar un 100 %. Empiezas a correr a un 150 % de tu velocidad normal durante un máximo de 3 segundos.\nCausa el efecto de estado Agotamiento durante 40 segundos.",
+        "usagerate": "2.7%",
+        "imageUrl": "https://res.cloudinary.com/dcyphejtl/image/upload/v1726024683/Perks%20A/pskdoieekhwei7byz5z6.webp"
+    },
+    {
+        "name": "Con calle",
+        "id": "28",
+        "description": "Reduce la velocidad de consumo de la carga de Objetos en un 25 % para ti y para los aliados en un alcance de 8 metros.\nUna vez fuera del alcance, el efecto durará 15 segundos.",
+        "usagerate": "0.8%",
+        "imageUrl": "https://res.cloudinary.com/dcyphejtl/image/upload/v1726024683/Perks%20A/ey3pav9spszwzlhklkqa.webp"
+    },
+    {
+        "name": "Evasion urbana",
+        "id": "29",
+        "description": "La velocidad de movimiento mientras avanzas agachada aumenta un 100 %.",
+        "usagerate": "3.1%",
+        "imageUrl": "https://res.cloudinary.com/dcyphejtl/image/upload/v1726024690/Perks%20A/xd9jw8j9vnpklmsbhjnu.webp"
+    },
+    {
+        "name": "Abandonado a tu suerte",
+        "id": "30",
+        "description": "Si eres el último superviviente con vida en la Partida, podrás ver el Aura de la Trampilla a una distancia de 32 metros.",
+        "usagerate": "0.2%",
+        "imageUrl": "https://res.cloudinary.com/dcyphejtl/image/upload/v1726024679/Perks%20A/cmxlav5a9hmtqogjjze3.webp"
+    },
+    {
+        "name": "Inquebrantable",
+        "id": "31",
+        "description": "Podrás recuperarte por completo del Estado Agonizante Una Vez por Partida. Aumenta en un 25 % la velocidad de recuperación cuando estás agonizante.",
+        "usagerate": "1.3%",
+        "imageUrl": "https://res.cloudinary.com/dcyphejtl/image/upload/v1726024694/Perks%20A/rranjgombqje1lxvxbfv.webp"
+    },
+    {
+        "name": "Tiempo prestado",
+        "id": "32",
+        "description": "Los supervivientes que descuelgues:\nMantienen su efecto de estado de Resistencia durante 10 segundos adicionales.\nMantienen la bonificación de velocidad de movimiento durante 10 segundos adicionales.\nSi sufre algún daño mientras tanto o si el temporizador de Herida Profunda llega a cero, se quedará en Estado Agonizante.",
+        "usagerate": "2%",
+        "imageUrl": "https://res.cloudinary.com/dcyphejtl/image/upload/v1726024702/Perks%20A/hgsyufmvve3nt1xflz4l.webp"
+    }
+]

@@ -1,0 +1,198 @@
+[
+    {
+        "name": "Acechador de siervos",
+        "id": "1",
+        "description": "Se te revelan las Auras de supervivientes moribundos cuando se encuentran en un radio de 36 metros.",
+        "usagerate": "0.4%",
+        "imageUrl": "https://res.cloudinary.com/dcyphejtl/image/upload/v1726024435/Perks%20S/nthbrrwj8iv36hklrlte.webp"
+    },
+    {
+        "name": "Apreton dehierro",
+        "id": "2",
+        "description": "Los efectos del forcejeo del superviviente se reducen en 75 %. El tiempo necesario para librarse de ti aumenta en un 12 %.",
+        "usagerate": "1.6%",
+        "imageUrl": "https://res.cloudinary.com/dcyphejtl/image/upload/v1726024423/Perks%20S/jlnjsbldcvk6nbmrvriv.webp"
+    },
+    {
+        "name": "Carnicero chapucero",
+        "id": "3",
+        "description": " Las heridas provocadas por ataques con éxito aumentan considerablemente la frecuencia de Sangrado del superviviente.\nEl sangrado vuelve a su ritmo normal cuando se cura al superviviente.",
+        "usageRate": "2.6%",
+        "imageUrl": "https://res.cloudinary.com/dcyphejtl/image/upload/v1726024424/Perks%20S/mowogosxgk6nmgz26suy.webp"
+    },
+    {
+        "name": "Escalofriante",
+        "id": "4",
+        "description": "Tu Radio de Terror aumenta en un 3.\nGana un 6 adicional en puntos de sangre en la categoría Malicia.",
+        "usagerate": "1.4%",
+        "imageUrl": "https://res.cloudinary.com/dcyphejtl/image/upload/v1726024428/Perks%20S/gubweaspuevpsgwnvc8n.webp"
+    },
+    {
+        "name": "Espias de la sombra",
+        "id": "5",
+        "description": "El 100% de las veces, los cuervos te dan una pista visual cuando te encuentras en un radio de 26 metros de ti.",
+        "usagerate": "1.3%",
+        "imageUrl": "https://res.cloudinary.com/dcyphejtl/image/upload/v1726024428/Perks%20S/toskxgwonhvqodot9qg1.webp"
+    },
+    {
+        "name": "Implacable",
+        "id": "6",
+        "description": " El tiempo de recuperación de los ataques fallidos se reduce un 30%.",
+        "usagerate": "0.3%",
+        "imageUrl": "https://res.cloudinary.com/dcyphejtl/image/upload/v1726024431/Perks%20S/i8zsjzxwbatosyh3smz6.webp"
+    },
+    {
+        "name": "Esto no puede estar pasando",
+        "id": "7",
+        "description": "El tamaño de las áreas de éxito para superar las pruebas de habilidad excelentes de reparación, curación y sabotaje aumenta un 30% si estás herido.",
+        "usagerate": "0.1%",
+        "imageUrl": "https://res.cloudinary.com/dcyphejtl/image/upload/v1726024690/Perks%20A/hepdfmd4rufczodakvav.webp"
+    },
+    {
+        "name": "Insidiosos",
+        "id": "8",
+        "description": " Al quedarte inmóvil durante 3 reduces tu Radio de Terror a 0 y entras en modo sigilo hasta que te muevas o realices una acción.",
+        "usagerate": "0.1%",
+        "imageUrl": "https://res.cloudinary.com/dcyphejtl/image/upload/v1726024432/Perks%20S/fzytbk0b5mlnbakzwgjf.webp"
+    },
+    {
+        "name": "Maleficio: La emocion de la caceria",
+        "id": "9",
+        "description": "Consigues un Distintivo por cada Tótem Apagado o de Maleficio que quede en el Mapa.\nCada distintivo te proporciona un 10 % más de Puntos de Sangre por acciones de la Categoría Caza.\nLa velocidad de purificación de los Supervivientes se reduce en un 6 % por cada Distintivo.\nRecibes un aviso cuando alguien se pone a manipular un Tótem de Maleficio.\nLos efectos del Maleficio perduran mientras su Tótem de Maleficio correspondiente siga en pie.",
+        "usagerate": "0.2%",
+        "imageUrl": "https://res.cloudinary.com/dcyphejtl/image/upload/v1726024435/Perks%20S/nthbrrwj8iv36hklrlte.webp"
+    },
+    {
+        "name": "Maleficio: nadie escapa de la muerte",
+        "id": "10",
+        "description": "Cuando las puertas de salida se abren, se aplica este maleficio a cualquier tótem opaco que quede en el mapa.\nCuando esta habilidad se activa 9. Además, los tiempos de recuperación para ataques con éxito y fallidos se reducen en un 4% y se acelera en un 6 tu velocidad de movimiento.\nLos efectos del maleficio persisten mientras el totem correspondiente siga en pie.",
+        "usagerate": "4.5%",
+        "imageUrl": "https://res.cloudinary.com/dcyphejtl/image/upload/v1726024435/Perks%20S/hzfeeidfeoihm0wg0pqq.webp"
+    },
+    {
+        "name": "Murmullos",
+        "id": "11",
+        "description": "Oyes esporádicamente el susurro del Ente cuando te encuentras en un radio de 48/40/32 metros de un superviviente.",
+        "usagerate": "0.9%",
+        "imageUrl": "https://res.cloudinary.com/dcyphejtl/image/upload/v1726024438/Perks%20S/rffwogv7t0cdeood66tu.webp"
+    },
+    {
+        "name": "Murmullo amargo",
+        "id": "12",
+        "description": "Se te revelan las Auras de los supervivientes durante 5 segundos cuando reparan un generador y 10 segundos cuando las Puertas de salida se accionen.",
+        "usagerate": "1.6%",
+        "imageUrl": "https://res.cloudinary.com/dcyphejtl/image/upload/v1726024437/Perks%20S/uz4tdcygt9kfx6tsrwcz.webp"
+    },
+    {
+        "name": "Santuario monstruoso",
+        "id": "13",
+        "description": "Se les otorga a los ganchos del sótano las siguientes bonificaciones:\nUn 9% más rápido en la progresión del Ente.\nUn 15 % de aumento en la dificultad en intentos de escape.\nUn 9 % de aumento en la penalización por escapes fallidos.",
+        "usagerate": "1.2%",
+        "imageUrl": "https://res.cloudinary.com/dcyphejtl/image/upload/v1726024441/Perks%20S/othum7wjldslenaxyncm.webp"
+    },
+    {
+        "name": "Agitacion",
+        "id": "14",
+        "description": "Aumenta tu Velocidad un 18 % mientras cargas con alguien. Mientras cargas con alguien, tu Radio de Terror aumenta 12 metros.",
+        "usagerate": "1.5%",
+        "imageUrl": "https://res.cloudinary.com/dcyphejtl/image/upload/v1726024422/Perks%20S/lfzdqko1vskuc4rhdccd.webp"
+    },
+    {
+        "name": "Presencia perturbadora",
+        "id": "15",
+        "description": "Los Supervivientes que se encuentren dentro de tu Radio de Terror tienen un 60 % más de probabilidades de activar Pruebas de Habilidad cuando reparan, curan o sabotean.\n El área de éxito de dichas pruebas de habilidad se reduce un 6%.",
+        "usagerate": "1.9%",
+        "imageUrl": "https://res.cloudinary.com/dcyphejtl/image/upload/v1726024440/Perks%20S/zqigxmw1o1tp3scnw45g.webp"
+    },
+    {
+        "name": "Fuerza bruta",
+        "id": "16",
+        "description": "Destruyes Generadores y Palés derribados un 20% más rápido.",
+        "usagerate": "2%",
+        "imageUrl": "https://res.cloudinary.com/dcyphejtl/image/upload/v1726024429/Perks%20S/y5sl5kfiiwinwqfg9uzi.webp"
+    },
+    {
+        "name": "Depredador",
+        "id": "17",
+        "description": " Las marcas de arañazos que dejan los Supervivientes aparecerán considerablemente más cerca.",
+        "usagerate": "0.4%",
+        "imageUrl": "https://res.cloudinary.com/dcyphejtl/image/upload/v1726024425/Perks%20S/cpbvupmmhztk1crefbze.webp"
+    },
+    {
+        "name": "Hijo de las sombras",
+        "id": "18",
+        "description": "Tu campo de visión es 15° más amplio de lo normal.No se acumula con otras mejoras del campo de visión.",
+        "usagerate": "0.1%",
+        "imageUrl": "https://res.cloudinary.com/dcyphejtl/image/upload/v1726024681/Perks%20A/kpuos1sj1z7qaqyss9gp.webp"
+    },
+    {
+        "name": "Sabueso de sangre",
+        "id": "19",
+        "description": "Las marcas de sangre fresca son considerablemente más perceptibles y pueden rastrearse durante 4 segundos más de lo normal.",
+        "usagerate": "0.3%",
+        "imageUrl": "https://res.cloudinary.com/dcyphejtl/image/upload/v1726024441/Perks%20S/xapctmsbmuigoavhmr1j.webp"
+    },
+    {
+        "name": "Hijo de la luz",
+        "id": "20",
+        "description": "La resistencia a la ceguera aumenta en un 80%. La recuperación de la vista en caso de ceguera aumenta en un 50%.",
+        "usagerate": "1.5%",
+        "imageUrl": "https://res.cloudinary.com/dcyphejtl/image/upload/v1726024430/Perks%20S/dzufl9djwoxtsdhrri0b.webp"
+    },
+    {
+        "name": "Manitas",
+        "id": "21",
+        "description": "Cuando un Generador se repara un 70 %, se genera una Notificación de Ruido Intenso y se te aplica el efecto de estado Indetectable durante 12 segundos.",
+        "usagerate": "2.6%",
+        "imageUrl": "https://res.cloudinary.com/dcyphejtl/image/upload/v1726024437/Perks%20S/qclpnxau6hpbtdmxj9i3.webp"
+    },
+    {
+        "name": "Resistente",
+        "id": "22",
+        "description": "La recuperación del aturdimiento se acelera en un 75%.",
+        "usagerate": "1.9%",
+        "imageUrl": "https://res.cloudinary.com/dcyphejtl/image/upload/v1726024428/Perks%20S/ox7qo7nvizhmzr4hckaz.webp"
+    },
+    {
+        "name": "Estridor",
+        "id": "23",
+        "description": "La respiración de los supervivientes que sufren es un 3% más ruidosa y la respiración normal se escucha 6 metros más de lo normal.",
+        "usagerate": "0.3%",
+        "imageUrl": "https://res.cloudinary.com/dcyphejtl/image/upload/v1726024429/Perks%20S/njcds2xjceljcq6sgsru.webp"
+    },
+    {
+        "name": "Tanatofobia",
+        "id": "24",
+        "description": "Todos los supervivientes reciben una penalización de las velocidades de reparación, curación y sabotaje por cada superviviente herido, moribundo o enganchado.\nCon 1 superviviente herido, moribundo o enganchado, la velocidad de acción se reduce un 4%.\nCon 2 supervivientes heridos, moribundos o enganchados, la velocidad de acción se reduce un 8%.\nCon 3 supervivientes heridos, moribundos o enganchados, la velocidad de acción se reduce un 12%.\nCon 4 supervivientes heridos, moribundos o enganchados, la velocidad de acción se reduce un 20%.",
+        "usagerate": "1.7%",
+        "imageUrl": "https://res.cloudinary.com/dcyphejtl/image/upload/v1726024420/Perks%20S/mejtjbkbmnrm1h2pum5t.webp"
+    },
+    {
+        "name": "Vocacion de enfermera",
+        "id": "25",
+        "description": "Se te revelan las Auras de los supervivientes que se están curando o están siendo curados si se encuentran en un radio de 28 metros",
+        "usagerate": "1%",
+        "imageUrl": "https://res.cloudinary.com/dcyphejtl/image/upload/v1726024433/Perks%20S/kbks4efnwr2h0dvvd1k5.webp"
+    },
+    {
+        "name": "Bestia de presa",
+        "id": "26",
+        "description": "La Marca Roja y el radio de terror desaparece durante cuando la Sed de sangre se activa.Bestia de presa tiene un tiempo de recuperación de 120 segundos.",
+        "usagerate": "0.4%",
+        "imageUrl": "https://res.cloudinary.com/dcyphejtl/image/upload/v1726024424/Perks%20S/fzbr9fycl0cy9aypk8ox.webp"
+    },
+    {
+        "name": "Maleficio: nana de la cazadora",
+        "id": "27",
+        "description": " Los supervivientes reciben un 6% de penalización si fallan pruebas de habilidad.\nCon cada superviviente que esté colgado en un gancho, la canción de caza se volverá más potente:\n1 a 4 medallas: Se reduce el tiempo que transcurre entre la prueba de habilidad y el sonido de advertencia.\n5 medallas: La prueba de habilidad no se avisa.",
+        "usagerate": "1.7%",
+        "imageUrl": "https://res.cloudinary.com/dcyphejtl/image/upload/v1726024435/Perks%20S/miovvy7ideb263mmjjf2.webp"
+    },
+    {
+        "name": "Instinto territorial",
+        "id": "28",
+        "description": " Se te revelan las auras de los supervivientes durante 3 segundos cuando llegan al sótano y tú estás a más de 32 metros de distancia de la entrada del mismo.\nInstinto territorial sólo se puede activar una vez cada 30 segundos.",
+        "usagerate": "0.2%",
+        "imageUrl": "https://res.cloudinary.com/dcyphejtl/image/upload/v1726024433/Perks%20S/uiu5porclz3ad7sy0vne.webp"
+    }
+]
