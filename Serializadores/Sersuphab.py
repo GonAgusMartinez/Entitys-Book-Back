@@ -1,9 +1,9 @@
 from rest_framework import serializers
-from Modelosyrutas.Modelosuphab import Habilidadesuperviviente
+from Modelosyrutas.Modelosuphab import HabilidadSuperviviente
 
 class HabilidadeSupervivienteSerializer(serializers.ModelSerializer):
     class Meta:
-        model = Habilidadesuperviviente
+        model = HabilidadSuperviviente
         fields = [
             'name',
             'id',

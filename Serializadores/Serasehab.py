@@ -1,13 +1,7 @@
 from rest_framework import serializers
-from Modelosyrutas.Modeloasehab import Habilidadeasesino
+from Modelosyrutas.Modeloasehab import HabilidadAsesino
 
-class HabilidadeAsesinoSerializer(serializers.ModelSerializer):
+class HabilidadAsesinoSerializer(serializers.ModelSerializer):
     class Meta:
-        model = Habilidadeasesino
-        fields = [
-            'name',
-            'id',
-            'description',
-            'usagerate',
-            'imageUrl'
-        ]
+        model = HabilidadAsesino
+        fields = ['name', 'description', 'usagerate', 'imageUrl']

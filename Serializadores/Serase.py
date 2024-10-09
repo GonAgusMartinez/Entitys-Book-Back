@@ -1,5 +1,5 @@
 from rest_framework import serializers
-from Modelosyrutas.Modeloase import Asesino 
+from Modelosyrutas.Modeloase import Asesino
 
 # Serializador para el campo Killrate
 class KillRateSerializer(serializers.Serializer):

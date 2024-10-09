@@ -3,5 +3,5 @@ from .views import SupervivienteList, SupervivienteDetail
 
 urlpatterns = [
     path('supervivientes/', SupervivienteList.as_view(), name='supervivientes-list'),
-    path('supervivientes/<int:id>/', SupervivienteDetail.as_view(), name='supervivientes-detail'),
+    path('supervivientes/<int:pk>/', SupervivienteDetail.as_view(), name='supervivientes-detail'),
 ]

@@ -1,9 +1,12 @@
+from django.db import models 
+
 class Superviviente(models.Model):
-    name = models.CharField(max_length=100)
+    id = models.IntegerField(primary_key=True)  
+    name = models.CharField(max_length=200)
     description = models.TextField()
     perks = models.JSONField()  
-    imagenUrl = models.URLField()
-    dlc = models.CharField(max_length=100)
+    imageUrl = models.URLField()  
+    dlc = models.CharField(max_length=200)
 
     def __str__(self):
         return self.name
