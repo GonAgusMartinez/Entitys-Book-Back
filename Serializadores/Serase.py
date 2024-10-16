@@ -3,15 +3,15 @@ from Modelosyrutas.Modeloase import Asesino
 
 # Serializador para el campo Killrate
 class KillRateSerializer(serializers.Serializer):
-    onekill = serializers.IntegerField()
-    twokills = serializers.IntegerField()
-    threekills = serializers.IntegerField()
-    fourkills = serializers.IntegerField()
+    killrate_onekill = serializers.IntegerField()
+    killrate_twokills = serializers.IntegerField()
+    killrate_threekills = serializers.IntegerField()
+    killrate_fourkills = serializers.IntegerField()
 
 # Serializador para el modelo Asesino
 class AsesinoSerializer(serializers.ModelSerializer):
-    # Serializamos el campo anidado 'killrate' con otro serializador
-    killrate = KillRateSerializer()
+    # Creamos un campo adicional 'killrate' usando el serializador anidado
+    killrate = KillRateSerializer(source='*', read_only=True)
 
     class Meta:
         model = Asesino
@@ -30,3 +30,17 @@ class AsesinoSerializer(serializers.ModelSerializer):
             'terrorradio', 
             'dlc'
         ]
+
+    def to_representation(self, instance):
+        """Sobrescribe el método para crear el campo 'killrate' a partir de los campos individuales."""
+        representation = super().to_representation(instance)
+        
+        # Creamos el campo 'killrate' a partir de los cuatro campos individuales
+        representation['killrate'] = {
+            'killrate_onekill': instance.killrate_onekill,
+            'killrate_twokills': instance.killrate_twokills,
+            'killrate_threekills': instance.killrate_threekills,
+            'killrate_fourkills': instance.killrate_fourkills
+        }
+        
+        return representation

@@ -17,7 +17,7 @@
         "name": "Carnicero chapucero",
         "id": "3",
         "description": " Las heridas provocadas por ataques con éxito aumentan considerablemente la frecuencia de Sangrado del superviviente.\nEl sangrado vuelve a su ritmo normal cuando se cura al superviviente.",
-        "usageRate": "2.6%",
+        "usagerate": "2.6%",
         "imageUrl": "https://res.cloudinary.com/dcyphejtl/image/upload/v1726024424/Perks%20S/mowogosxgk6nmgz26suy.webp"
     },
     {

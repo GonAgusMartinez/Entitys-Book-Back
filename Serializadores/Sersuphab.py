@@ -5,8 +5,8 @@ class HabilidadeSupervivienteSerializer(serializers.ModelSerializer):
     class Meta:
         model = HabilidadSuperviviente
         fields = [
+            'id',  # Aseguramos que el ID esté presente
             'name',
-            'id',
             'description',
             'usagerate',
             'imageUrl'

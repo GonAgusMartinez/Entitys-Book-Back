@@ -17,7 +17,7 @@
         "name": "Deja vu",
         "id": "3",
         "description": "Al principio de cada partida y cada vez que se complete un generador, se revelaran las Auras de los 3 Generadores próximos entre sí.",
-        "usageRate": "3%",
+        "usagerate": "3%",
         "imageUrl": "https://res.cloudinary.com/dcyphejtl/image/upload/v1726024687/Perks%20A/umsodqmulfhghbetgl3r.webp"
     },
     {

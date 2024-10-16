@@ -4,4 +4,4 @@ from Modelosyrutas.Modeloasehab import HabilidadAsesino
 class HabilidadAsesinoSerializer(serializers.ModelSerializer):
     class Meta:
         model = HabilidadAsesino
-        fields = ['name', 'description', 'usagerate', 'imageUrl']
+        fields = ['id', 'name', 'description', 'usagerate', 'imageUrl']  # Incluye el campo id

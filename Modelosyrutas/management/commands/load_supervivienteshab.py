@@ -13,12 +13,11 @@ class Command(BaseCommand):
             for habilidad in data:
                 # Crear una nueva instancia de HabilidadSuperviviente con los datos del JSON
                 HabilidadSuperviviente.objects.create(
+                    id=habilidad['id'],  # Aseguramos cargar el ID manual
                     name=habilidad['name'],
-                    id=habilidad['id'],
                     description=habilidad['description'],
                     usagerate=habilidad['usagerate'],
                     imageUrl=habilidad['imageUrl']
                 )
 
         self.stdout.write(self.style.SUCCESS('Habilidades de supervivientes cargadas exitosamente'))
-

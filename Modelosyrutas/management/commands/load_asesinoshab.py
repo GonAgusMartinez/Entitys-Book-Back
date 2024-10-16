@@ -14,7 +14,7 @@ class Command(BaseCommand):
                 # Crear una nueva instancia de HabilidadAsesino con los datos del JSON
                 HabilidadAsesino.objects.create(
                     name=habilidad['name'],
-                    id=habilidad['id'],
+                    id=habilidad['id'],  # Usamos el id del JSON
                     description=habilidad['description'],
                     usagerate=habilidad['usagerate'],
                     imageUrl=habilidad['imageUrl']
