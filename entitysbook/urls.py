@@ -1,5 +1,6 @@
 from django.contrib import admin
 from django.urls import path
+from django.shortcuts import redirect
 from Modelosyrutas.views import (
     AsesinoList, 
     AsesinoDetail, 
@@ -8,10 +9,16 @@ from Modelosyrutas.views import (
     HabilidadAsesinoList, 
     HabilidadAsesinoDetail, 
     HabilidadSupervivienteList, 
-    HabilidadSupervivienteDetail  # Importa las vistas para habilidades de supervivientes
+    HabilidadSupervivienteDetail,  
+    UsuarioList,  
+    UsuarioDetail  
 )
 
+def redirect_to_admin(request):
+    return redirect('/admin/')
+
 urlpatterns = [
+    path('', redirect_to_admin),  # Redirige la raíz al panel de administración
     path('admin/', admin.site.urls),
     
     # Rutas para asesinos
@@ -29,4 +36,8 @@ urlpatterns = [
     # Rutas para habilidades de supervivientes
     path('api/habilidades_supervivientes/', HabilidadSupervivienteList.as_view(), name='habilidades-supervivientes-list'),
     path('api/habilidades_supervivientes/<int:pk>/', HabilidadSupervivienteDetail.as_view(), name='habilidades-supervivientes-detail'),
+
+    # Rutas para usuarios
+    path('api/usuarios/', UsuarioList.as_view(), name='usuarios-list'),
+    path('api/usuarios/<int:pk>/', UsuarioDetail.as_view(), name='usuarios-detail'),
 ]

@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "username": "admin_user",
+        "email": "admin@example.com",
+        "imagen": "https://example.com/image.jpg",
+        "ban_status": false,
+        "comentaries": "Comentario 1, Comentario 2",
+        "usertype": "admin"
+    }
+]
