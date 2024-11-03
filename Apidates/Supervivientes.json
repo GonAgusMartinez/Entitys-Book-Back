@@ -2,6 +2,7 @@
     {
         "name": "Dwight Fairfield",
         "id": "1",
+        "usagerate": "3%",
         "description": "Un líder inusual que fue forzado a estar a la altura de las circunstancias, la valentía reticente de Dwight Fairfield inspira a aquellos a su alrededor. Entendiendo el valor del trabajo en equipo, Dwight es un experto en ubicar y aumentar la eficiencia de sus compañeros de equipo.",
         "perks": [
             "Vinculo",
@@ -14,6 +15,7 @@
     {
         "name": "Meg Thomas",
         "id": "2",
+        "usagerate": "5.1%",
         "description": "A Meg se le daban bien los estudios, pero estaba descontrolada. Por suerte, el entrenador de atletismo la animó a canalizar toda su energía desaprovechada en las pistas. Se concentró en convertirse en una estrella del atletismo en su instituto y consiguió una beca universitaria. Cuando su madre enfermó, Meg decidió perder la oportunidad de ir a la universidad para cuidar de la mujer que la había criado.",
         "perks": [
             "Adrenalina",
@@ -26,6 +28,7 @@
     {
         "name": "Claudette Morel",
         "id": "3",
+        "usagerate": "2.7%",
         "description": "A Claudette le llevan fascinando los experimentos científicos desde el día en el que sus padres le regalaron su primer equipo científico. Su gran pasión la llevó a aceptar una beca en una prestigiosa universidad. Dejar Montreal fue una decisión dura, pero era una oportunidad demasiado buena como para desaprovecharla.",
         "perks": [
             "Autocuracion",
@@ -38,6 +41,7 @@
     {
         "name": "Jake Park",
         "id": "4",
+        "usagerate": "1.8%",
         "description": "Ser hijo de un acaudalado empresario siempre iba a suponer una gran presión para Jake Park. La situación se hizo todavía peor cuando su hermano se graduó cum laude en Yale. A Jake no le interesaban los estudios, pero su padre nunca entendió su intención de desaprovechar la carísima educación que le estaba brindando. Jake acabó por rebelarse y abandonó los estudios completamente.",
         "perks": [
             "Voluntad de hierro",
@@ -50,6 +54,7 @@
     {
         "name": "Nea Karlsson",
         "id": "5",
+        "usagerate": "3.1%",
         "description": "Nea creció en un pueblo llamado de Hjo, en Suecia. Tuvo una infancia feliz, pese a que sus padres se pasaban el día trabajando. Cuando la posibilidad de mudarse a Estados Unidos se convirtió en realidad, empezó a portarse mal. Nea se veía obligada a dejar atrás su vida y a sus amigos.",
         "perks": [
             "Caida libre",
@@ -62,6 +67,7 @@
     {
         "name": "Bill Overbreck",
         "id": "6",
+        "usagerate": "1.1%",
         "description": "Tras décadas vagando sin rumbo de un trabajo a otro, Bill entró en quirófano para someterse a una operación rutinaria y, al despertar, se encontró con que el mundo que conocía había desaparecido. Una plaga estaba convirtiendo a la gente normal en máquinas de matar sin conciencia. Por supuesto, lo primero que hizo fue abrirse camino hasta su casa y ponerse el uniforme. Tuvo que cruzar pueblos fantasma y bosques oscuros como la boca de un lobo hasta encontrar a otros supervivientes. Juntos, huyeron de las hordas infectadas.",
         "perks": [
             "Abandonado a tu suerte",
